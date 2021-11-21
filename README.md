@@ -1,4 +1,4 @@
-💡 Permanently
+ # Temporary 💡
 
 After cloning the project using the following steps:
 
