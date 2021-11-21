@@ -1,3 +1,5 @@
+💡 Permanently
+
 After cloning the project using the following steps:
 
 1. Clone AppNews repo or click on download from Github.
